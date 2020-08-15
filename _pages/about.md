@@ -4,10 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I am currently pursuing MS(R) degree in Computer Science at Indian Institute of Technology, Kanpur. I am working on 3D Tracking using LiDAR data under the guidance of Professor [Vinay Namboodiri](https://vinaypn.github.io/).
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
