@@ -34,8 +34,10 @@ MS(R) students are also expected to publish a paper although it is not compulsar
 ## FAQs-
 
 1. How are advisors assigned?
+
 Students can mail and meet teachers with whom they wish to work. If the teacher agrees that's it, otherwise try approaching some other teacher.
 
 2. How many students completed MS(R) programme in 2 years?
+
 Out of 9 MS(R) CSE students enrolled in 2018, four students completed their thesis work in two years while four students have extended thier programme and one has convrted to PhD.
 
