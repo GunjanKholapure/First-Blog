@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "I am currently pursuing MS(R) degree in Computer Science at Indian Institute of Technology, Kanpur. I am working on 3D Tracking using LiDAR data under the guidance of Professor Vinay Namboodiri. .",
           "url": "https://gunjankholapure.github.io/First-Blog/about/",
           "relUrl": "/about/",
           "date": ""
