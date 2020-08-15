@@ -20,7 +20,7 @@ Admission to MS(R) program generally requires giving an Interview in all IITs. S
 for the admission process. For admission to MS(R) programme in CSE branch at IIT Kanpur in 2018,  students had to clear a coding test and an interview.
 
 ## Difference between MS(R) and Mtech Programme
-This programme is pefect for students who are interested in doing research in a particular area but are not sure about doing a PhD. Although MTech students also carry out research work, there are some differences in both programmes as listed 
+This programme is perfect for students who are interested in doing research in a particular area but are not sure about doing a PhD. Although MTech students also carry out research work, there are some differences in both programmes as listed 
 below - 
 
 * Coursework in MTech Programme is more as compared to MS(R) programme. M.Tech students are required to take a minimum of 7 courses while MS(R) students have to do a minimum 
@@ -31,13 +31,15 @@ financial assistanship is however for a period of about two years only in MS(R) 
 
 MS(R) students are also expected to publish a paper although it is not compulsary. MS(R) students can also extend their programme to PhD before second year if they wish. 
 
+
 ## FAQs-
 
 1. How are advisors assigned?
 
-Students can mail and meet teachers with whom they wish to work. If the teacher agrees that's it, otherwise try approaching some other teacher.
+1. How many students completed MS(R) programme in 2 years?
 
-2. How many students completed MS(R) programme in 2 years?
+## Answers
+1. Students can mail and meet teachers with whom they wish to work. If the teacher agrees that's it, otherwise try approaching some other teacher.
 
-Out of 9 MS(R) CSE students enrolled in 2018, four students completed their thesis work in two years while four students have extended thier programme and one has convrted to PhD.
+1. Out of 9 MS(R) CSE students enrolled in 2018, four students completed their thesis work in two years while four students have extended thier programme and one has convrted to PhD.
 
