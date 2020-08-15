@@ -1,12 +1,21 @@
-**Note** :- This article deals with MS(R) CSE programme at IITK. The information contained in this article is according to rules during 2018 MS(R) programme. Things may change in 
-future.
+---
+toc: true
+layout: post
+description: This post discusses a few points regarding MS(R) CSE programme at IITK
+categories: [markdown]
+title: MS(R) CSE programme at IITK
+---
+
+# MS(R) CSE programme at IITK
+
+**Note** :- This article deals with MS(R) CSE programme at IITK. The information contained in this article is according to rules during 2018 MS(R) programme. Things may change in future.
 
 A lot of information about different programmes in IIT Kanpur can be found in [PG Manual](https://www.iitk.ac.in/doaa/data/pgmanual-02Sep2015.pdf).
 
 MS(R) is a relatively new programme started in 2015 at IITK. Since this a relatively new programme and the intake of students is less in this programme, new students generally 
 have some doubts regarding it. Below I have mentioned a few points that may help new students in making better decisions.
 
-##Admission
+## Admission
 Admission to MS(R) program generally requires giving an Interview in all IITs. Students are shortlisted on the basis of their GATE (Graduate Aptitude Test in Engineering) scores 
 for the admission process. For admission to MS(R) programme in CSE branch at IIT Kanpur in 2018,  students had to clear a coding test and an interview.
 
@@ -22,7 +31,7 @@ financial assistanship is however for a period of about two years only in MS(R) 
 
 MS(R) students are also expected to publish a paper although it is not compulsary. MS(R) students can also extend their programme to PhD before second year if they wish. 
 
-##FAQs-
+## FAQs-
 
 1. How are advisors assigned?
 Students can mail and meet teachers with whom they wish to work. If the teacher agrees that's it, otherwise try approaching some other teacher.
